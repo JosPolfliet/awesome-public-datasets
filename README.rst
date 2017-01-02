@@ -354,6 +354,7 @@ Natural Language
 * `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html>`_
 * `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
 * `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_
+* `Multilingual Word Frequency lists <https://onedrive.live.com/?id=3732E80B128D016F%213584&cid=3732E80B128D016F>`_
 * `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
 * `Personae Corpus <http://www.clips.uantwerpen.be/datasets/personae-corpus>`_
 * `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_
